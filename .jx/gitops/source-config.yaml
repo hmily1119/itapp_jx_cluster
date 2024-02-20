@@ -8,6 +8,7 @@ spec:
     provider: https://github.com
     providerKind: github
     repositories:
+    - name: golang-quickstart
     - name: python-quickstart
     scheduler: in-repo
   slack:
